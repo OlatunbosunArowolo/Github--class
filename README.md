@@ -1,3 +1,3 @@
 # Github--class
 
-Am crerating a github account
+Am creating a github account
